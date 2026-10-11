@@ -1,0 +1,23 @@
+{
+  "name": "websocket-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Christopher-OOC/web-socket-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Christopher-OOC/web-socket-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher-OOC/web-socket-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "websocket": "^1.0.35"
+  }
+}
